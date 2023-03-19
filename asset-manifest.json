@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/alphafold-server/static/css/main.6e216600.css",
+    "main.js": "/alphafold-server/static/js/main.635d2575.js",
+    "static/js/787.2c174a35.chunk.js": "/alphafold-server/static/js/787.2c174a35.chunk.js",
+    "index.html": "/alphafold-server/index.html",
+    "main.6e216600.css.map": "/alphafold-server/static/css/main.6e216600.css.map",
+    "main.635d2575.js.map": "/alphafold-server/static/js/main.635d2575.js.map",
+    "787.2c174a35.chunk.js.map": "/alphafold-server/static/js/787.2c174a35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e216600.css",
+    "static/js/main.635d2575.js"
+  ]
+}
